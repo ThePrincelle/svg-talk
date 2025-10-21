@@ -759,3 +759,25 @@ class: text-center
 <div class="text-lg opacity-70 typewriter-text">
   Des questions ?
 </div>
+
+---
+layout: intro
+---
+
+# Me contacter
+
+
+<div class="relative h-full mt-20 ml-40">
+  <div class="flex flex-col items-center justify-center h-full">
+    <h2 class="font-bold mb-4" style="font-size: 3rem;">Maxime Princelle</h2>
+    <p class="opacity-80 mb-6" style="font-size: 1.5rem;">contact@princelle.org</p>
+    <p class="opacity-80 mb-6" style="font-size: 1.5rem;"><a href="https://www.linkedin.com/in/maxime-princelle/" target="_blank">LinkedIn</a> • <a href="https://x.com/theprincelle" target="_blank">Twitter (X)</a> • <a href="https://github.com/theprincelle" target="_blank">GitHub</a> • etc.</p>
+    <p class="opacity-80 mb-6" style="font-size: 1.5rem; text-align: center;">Lien vers la présentation :<br/><a href="https://theprincelle.github.io/svg-talk/" target="_blank">https://theprincelle.github.io/svg-talk/</a></p>
+  </div>
+</div>
+
+<img 
+  src="/profile-picture.png" 
+  alt="Profile picture" 
+  style="position: absolute; bottom: 0; left: 3rem; width: 280px; height: 280px; object-fit: cover;"
+/>
