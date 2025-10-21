@@ -27,6 +27,12 @@ Puis visitez <http://localhost:3030>
 
 Éditez le fichier [slides.md](./slides.md) pour modifier le contenu de la présentation.
 
+## 🚢 Déploiement
+
+Le projet est configuré pour se déployer automatiquement sur GitHub Pages à chaque push sur la branche `main`.
+
+Il sera accessible à l'URL : <https://theprincelle.github.io/svg-talk/>
+
 ## 📚 Ressources
 
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/) - Article original de Josh Comeau
